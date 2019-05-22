@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">android4proj</string>
+    <string name="text1">User Name</string>
+    <string name="text2">Password</string>
+    <string name="bt1">Login</string>
+    <string name="bt2">Forgot</string>
+</resources>
